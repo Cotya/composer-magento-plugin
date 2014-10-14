@@ -1,5 +1,6 @@
 cotya/composer-magento-plugin
 ===========================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Cotya/composer-magento-plugin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 a composer plugin to offer a clean and unproblematic way to install magento modules
 
